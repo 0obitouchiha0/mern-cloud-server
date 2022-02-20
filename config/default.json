@@ -1,0 +1,7 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://danil228:zzxxdanyaxxzz123876@cloud-disc.sa8kr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secretKey": "SECRET_KEY",
+  "filePath": "C:\\Users\\ПК\\Desktop\\проекты\\mern-cloud-disc\\server\\files",
+  "staticPath": "C:\\Users\\ПК\\Desktop\\проекты\\mern-cloud-disc\\server\\static"
+}
